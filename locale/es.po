@@ -5,3 +5,11 @@ msgstr "Content-Type: text/plain; charset=utf-8\n"
 msgctxt "field:party.party,business_hours:"
 msgid "Business Hours"
 msgstr "Horas laborales"
+
+msgctxt "field:purchase.purchase,business_hours:"
+msgid "Business Hours"
+msgstr "Horas laborales"
+
+msgctxt "field:sale.sale,business_hours:"
+msgid "Business Hours"
+msgstr "Horas laborales"
