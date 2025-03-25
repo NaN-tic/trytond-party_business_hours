@@ -8,6 +8,7 @@ from trytond.tests.test_tryton import ModuleTestCase
 class PartyBusinessHoursTestCase(ModuleTestCase):
     'Test PartyBusinessHours module'
     module = 'party_business_hours'
+    extras = ['sale', 'purchase']
 
 
 del ModuleTestCase
