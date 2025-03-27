@@ -7,6 +7,7 @@ from . import party, sale, purchase
 def register():
     Pool.register(
         party.Party,
+        party.Address,
         module='party_business_hours', type_='model')
     Pool.register(
         sale.Sale,
