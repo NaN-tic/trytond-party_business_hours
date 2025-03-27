@@ -2,6 +2,10 @@
 msgid ""
 msgstr "Content-Type: text/plain; charset=utf-8\n"
 
+msgctxt "field:party.address,business_hours:"
+msgid "Business Hours"
+msgstr "Horas laborales"
+
 msgctxt "field:party.party,business_hours:"
 msgid "Business Hours"
 msgstr "Horas laborales"
